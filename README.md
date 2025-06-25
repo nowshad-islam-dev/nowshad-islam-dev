@@ -104,8 +104,8 @@ const nowshadIslam = {
 <div align="center">
   
   <!-- Add your repository cards here -->
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowshad-islam-dev&repo=your-best-project&theme=tokyonight)](https://github.com/apex-webdev/your-best-project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowshad-islam-dev&repo=another-great-project&theme=tokyonight)](https://github.com/apex-webdev/another-great-project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowshad-islam-dev&repo=your-best-project&theme=tokyonight)](https://github.com/nowshad-islam-dev/skipq)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowshad-islam-dev&repo=another-great-project&theme=tokyonight)](https://github.com/nowshad-islam-dev/angkon)
   
 </div>
 
