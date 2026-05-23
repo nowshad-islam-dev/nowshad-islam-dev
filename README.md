@@ -1,6 +1,6 @@
 # Nowshad Islam
 
-Co-founder & Software Engineer at [Social Mavericks](https://socialmavericksdigital.net) — we build and grow digital businesses with AI at the core.
+Co-founder & Software Engineer at [Social Mavericks](https://socialmavdigital.com) — we build and grow digital businesses with AI at the core.
 
 I work across the full stack with a focus on production-grade software: E-commerce platforms, ERP and CRM systems, AI-integrated applications, and the automation infrastructure that ties it all together.
 
@@ -8,7 +8,7 @@ I work across the full stack with a focus on production-grade software: E-commer
 
 ## What I'm Building
 
-**[Social Mavericks](https://socialmavericksdigital.net)** — A digital agency operating across two tracks:
+**[Social Mavericks](https://socialmavdigital.com)** — A digital agency operating across two tracks:
 - **Build** — Custom e-commerce, ERP, CRM, CMS, and AI-integrated software
 - **Grow** — Meta ads, marketing automation, and full-funnel digital operations
 
@@ -42,7 +42,7 @@ n8n · Make · OpenClaw · LangChain · Pinecone
 
 | Project | What it is |
 |---|---|
-| [Social Mavericks](https://socialmavericksdigital.net) | Agency website — Next.js, Strapi, Tailwind |
+| [Social Mavericks](https://socialmavdigital.com) | Agency website — Next.js, Strapi, Tailwind |
 | More coming soon | — |
 
 ---
@@ -55,7 +55,7 @@ I write about software architecture, AI in production, and building a tech agenc
 
 ## Get in Touch
 
-**Building something?** [socialmavericksdigital.net](https://socialmavericksdigital.net)
+**Building something?** [socialmavericksdigital.net](https://socialmavdigital.com)
 
 **Direct:** mdnowshadislam.2108033.ruet.mte@gmail.com · [LinkedIn](https://linkedin.com/in/nowshad-islam-dev)
 
